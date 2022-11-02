@@ -23,12 +23,12 @@
     My GitHub Stats
 </h1>
   <p align="center">
-    <a href="https://github.com/DEEM-0001/">
+    <a href="https://github.com/Kwertzyy">
         <img src="https://github-readme-stats.vercel.app/api?username=darkky1&show_icons=true&theme=dark" />
-    <a href="https://github.com/DEEM-0001">
+    <a href="https://github.com/Kwertzyy">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=darkky1&show_icons=true&theme=dark" />
     </a>
     <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=darkky1&custom_title=%20Contribution%20Graph&bg_color=dark&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=false"  alt="contributiongraf"/>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Kwertzyy&custom_title=%20Contribution%20Graph&bg_color=dark&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=false"  alt="contributiongraf"/>
 </div>
 <p>
