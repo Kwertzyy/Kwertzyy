@@ -15,9 +15,7 @@
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center">
-https://lanyard.cnrad.dev/api/1052257233880227911?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Im+not+doing+anything+at+the+moment
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052257233880227911)](https://discord.com/users/1052257233880227911)
 
 <h1 align="center">
     My GitHub Stats
