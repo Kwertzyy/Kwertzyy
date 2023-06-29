@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/Kwertzyy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"></a>
-    <a href="https://dsc.gg/galaxysecurity"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"></a>
+    <a href="https://discord.gg/angelgg"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"></a>
 </p>
 
 <h1 align="center">
