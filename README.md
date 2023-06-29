@@ -16,7 +16,7 @@
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/911252761184698368?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px" />
+<img src="https://lanyard.cnrad.dev/api/1052257233880227911?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px" />
 </p>
 
 <h1 align="center">
